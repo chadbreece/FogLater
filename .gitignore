@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+fog_data/
 
 # C extensions
 *.so
